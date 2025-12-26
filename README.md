@@ -23,15 +23,42 @@
 
   ****** yml *********
   dependencies:
+  
    flutter :
+  
   sdk : flutter
+  
   provider : ^6.1.2
+  
   http : ^1.2.0
 
 
-  *Tech Stack & Packages Used
+  ** Tech Stack & Packages Used **
 
    **Flutter**
+  
  *Dart*
+ 
  *Provider* – State management
+ 
  *http* – API integration
+
+
+ ** How to run the project **
+
+Flutter SDK installed
+
+Android Studio / VS Code
+
+Android device or emulator or real device
+
+
+step : 01 --> Clone the repository : git clone <your-github-repo-link>
+
+step : 02 --> Navigate to project directory : cd kodevio_users
+
+step : 03 --> Install dependencies : flutter pub get
+
+step ; 04 --> Run the app on a real device or emulator : flutter run
+
+
